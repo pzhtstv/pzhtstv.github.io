@@ -127,8 +127,8 @@ gitment:
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
+    owner: pzhtstv
+    repo: https://pzhtstv.github.io/
     clientID: d41f8130d63fc82b0508
     clientSecret: ec31163b805da63a04930f62a531b7ecc31f8ef0
 # 在使用其它评论组件时可点击显示 Disqus
